@@ -38,12 +38,20 @@ I enjoy turning ideas into real-world digital solutions and continuously improvi
 ---
 
 ## 📌 Projects
+
 Here are some of the projects I’ve worked on:
 
-- 🛒 Full-Stack E-commerce Website  
-- 📊 EMI Calculator  
-- 🌐 Responsive Portfolio Website  
-- 🔐 Authentication-based Web Apps  
+🌐 Responsive Portfolio Website  
+🔗 https://github.com/aman8906/portfolio-mernstack.
+
+🛒 Full-Stack E-commerce Website  
+🔗 https://github.com/aman8906/E-Commerce
+
+📊 EMI Calculator  
+🔗 https://github.com/your-username/emi-calculator  
+
+🔐 Authentication-based Web Apps  
+🔗 https://github.com/your-username/auth-project  
 
 👉 Check my repositories to explore more.
 
