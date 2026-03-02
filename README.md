@@ -47,11 +47,11 @@ Here are some of the projects I’ve worked on:
 🛒 Full-Stack E-commerce Website  
 🔗 https://github.com/aman8906/E-Commerce
 
-📊 EMI Calculator  
-🔗 https://github.com/your-username/emi-calculator  
+📊 User Management System
+🔗 https://github.com/aman8906/User_Management_System0
 
-🔐 Authentication-based Web Apps  
-🔗 https://github.com/your-username/auth-project  
+🔐 Restaurant Web Apps  
+🔗 https://github.com/aman8906/Restaurant-App
 
 👉 Check my repositories to explore more.
 
