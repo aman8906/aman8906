@@ -202,7 +202,7 @@ Upload Resume.pdf inside GitHub and link here.
 
 <p>
 
-<a href="https://linkedin.com/in/aman-chaursiya-25b553250">
+<a href="[https://linkedin.com/in/aman-chaursiya-25b553250]">
 
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 
