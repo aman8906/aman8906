@@ -198,7 +198,7 @@ https://web-s-portfolio.netlify.app/
 <p align="left">
   <a href="https://github.com/aman8906/aman8906/raw/main/Resume.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Download%20Resume-4285F4?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume"/>
-  </a>
+  </a> 
 </p>
 # 🤝 Connect With Me
 
