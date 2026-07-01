@@ -226,7 +226,7 @@ https://web-s-portfolio.netlify.app/
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
   </a>
 </p>
----
+--- 
 
 # 🐍 Contribution Snake
 
