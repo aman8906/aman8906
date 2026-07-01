@@ -200,28 +200,27 @@ Upload Resume.pdf inside GitHub and link here.
 
 # 🤝 Connect With Me
 
-<p>
+<p align="left">
+  <a href="https://www.linkedin.com/in/aman-chaursiya-25b553250/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
 
-<a href="[https://linkedin.com/in/aman-chaursiya-25b553250]">
+  <a href="mailto:amanchaurasiya0955@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
 
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+  <a href="https://github.com/aman8906" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 
-</a>
+  <a href="https://web-s-portfolio.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  </a>
 
-<a href="mailto:amanchaurasiya0955@gmail.com">
-
-<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
-
-</a>
-
-<a href="https://github.com/aman8906">
-
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
-
-</a>
-
+  <a href="https://x.com/" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+  </a>
 </p>
-
 ---
 
 # 🐍 Contribution Snake
