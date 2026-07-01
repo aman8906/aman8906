@@ -198,6 +198,9 @@ https://web-s-portfolio.netlify.app/
 <a href="https://github.com/aman8906/aman8906/raw/main/Aman_Chaurasiya_resume.pdf" target="_blank">
   <img src="https://img.shields.io/badge/Download%20Resume-4285F4?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
 </a>
+
+
+------
 # 🤝 Connect With Me
 
 <p align="left">
