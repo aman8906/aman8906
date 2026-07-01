@@ -198,10 +198,9 @@ https://github.com/aman8906/portfolio-mernstack
 
 ---
 
-# 🐍 Contribution Snake
-
-![Snake animation](https://raw.githubusercontent.com/aman8906/aman8906/output/github-contribution-grid-snake.svg)
-
+# 🐍 Contribution Snake ![snake gif](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg) 
+--- 
+# 💻 Quote "First, solve the problem. Then, write the code." — John Johnson ---
 ---
 
 <p align="center">
