@@ -2,7 +2,7 @@
 
 <h3 align="center">
 Frontend Developer | React Developer | Aspiring Full Stack Developer
-</h3>
+</h3> 
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Frontend+Developer;React+Developer;Full+Stack+Developer;MERN+Stack+Developer;Open+to+Work" />
