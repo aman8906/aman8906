@@ -102,13 +102,12 @@ Frontend Developer | React Developer | Aspiring Full Stack Developer
 
 ---
 
-# 🏆 GitHub Trophy
+## 🏆 GitHub Trophies
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=aman8906&theme=onedark&margin-w=15"/>
-
+  <img src="https://github-profile-trophy.vercel.app/?username=aman8906&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" alt="GitHub Trophies"/>
 </p>
+
 
 ---
 
