@@ -1,67 +1,148 @@
-# Hi there, I'm Aman Chaursiya! 👋
+<h1 align="center">Hi 👋, I'm Aman Chaursiya</h1>
 
-🎓 BCA Graduate | 💻 Frontend Developer | 🚀 Aspiring Full-Stack Developer  
+<h3 align="center">
+Frontend Developer | React Developer | Aspiring Full Stack Developer
+</h3>
 
-I am passionate about building responsive, user-friendly, and modern web applications.  
-I enjoy turning ideas into real-world digital solutions and continuously improving my development skills.
+<p align="center">
+Passionate about building modern, responsive and scalable web applications using React, Node.js and MongoDB.
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=aman8906&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
 ---
 
-## 🧑‍💻 About Me
-- 🌱 Currently learning **Full-Stack Development**
-- 💡 Interested in building scalable web applications
-- 🎯 Goal: Become a professional Full-Stack Developer
-- 📚 Always learning new technologies and best practices
+## 🚀 About Me
+
+🎓 BCA Graduate
+
+💻 Frontend Developer with React.js
+
+🌱 Currently learning Full Stack Development
+
+⚡ Love building responsive web applications
+
+🎯 Looking for Frontend / React / Full Stack Developer opportunities
+
+📍 India
 
 ---
 
-## 🛠️ Tech Stack
+## 💻 Tech Stack
 
-**Frontend**
+### Frontend
+
 - HTML5
 - CSS3
-- JavaScript (ES6+)
+- JavaScript
 - React.js
 
-**Backend (Learning / Working With)**
+### Backend
+
 - Node.js
 - Express.js
 
-**Database**
+### Database
+
 - MongoDB
 
-**Tools**
-- Git & GitHub
+### Tools
+
+- Git
+- GitHub
 - VS Code
 - Postman
+- Netlify
+- Vercel
 
 ---
 
-## 📌 Projects
+## 🚀 Featured Projects
 
-Here are some of the projects I’ve worked on:
+### 🛒 Full Stack E-Commerce
 
-🌐 Responsive Portfolio Website  
-🔗 https://github.com/aman8906/portfolio-mernstack.
+✔ Authentication
 
-🛒 Full-Stack E-commerce Website  
-🔗 https://github.com/aman8906/E-Commerce
+✔ Cart
 
-📊 User Management System
-🔗 https://github.com/aman8906/User_Management_System0
+✔ Checkout
 
-🔐 Restaurant Web Apps  
-🔗 https://github.com/aman8906/Restaurant-App
+✔ Responsive
 
-👉 Check my repositories to explore more.
+✔ MongoDB
 
----
+🔗 Live Demo
 
-## 📫 Connect With Me
-- GitHub: https://github.com/aman8906
-- LinkedIn:(https://www.linkedin.com/in/aman-chaursiya-25b553250?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app).
-- Mail-amanchaurasiya0955@gmail.com
+🔗 GitHub
 
 ---
 
-⭐ Thanks for visiting my profile!
+### 👥 User Management System
+
+✔ CRUD
+
+✔ Authentication
+
+✔ Dashboard
+
+✔ Search
+
+🔗 Live Demo
+
+🔗 GitHub
+
+---
+
+### 🍽 Restaurant Web App
+
+✔ Responsive
+
+✔ React
+
+✔ Modern UI
+
+🔗 Live Demo
+
+🔗 GitHub
+
+---
+
+### 🌐 Portfolio Website
+
+✔ Responsive
+
+✔ React
+
+✔ Animations
+
+🔗 Live Demo
+
+🔗 GitHub
+
+---
+
+## 📈 GitHub Stats
+
+(Add GitHub Stats)
+
+(Add GitHub Streak)
+
+(Add Most Used Languages)
+
+---
+
+## 🤝 Connect With Me
+
+LinkedIn
+
+Portfolio
+
+GitHub
+
+Email
+
+---
+
+⭐ Thank you for visiting my profile.
